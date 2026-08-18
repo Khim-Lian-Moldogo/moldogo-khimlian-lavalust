@@ -186,11 +186,10 @@
 
     <div class="container">
 
-        <h1>Welcome to My Student Page</h1>
+        <h1>Welcome, Khim Lian Moldogo</h1>
 
         <p>
-            This is my Student Information System using LavaLust.
-        </p>
+ View your personal and academic information.        </p>
 
         <div class="buttons">
 
