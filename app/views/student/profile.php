@@ -179,7 +179,7 @@
 
     <div class="header">
         <h1>Student Information</h1>
-        <p>My Student Profile</p>
+        <p>Student Profile</p>
     </div>
 
     <div class="navigation">
